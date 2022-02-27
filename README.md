@@ -8,8 +8,9 @@ The Merge selling points:
 - Deflationary: centralised changes to monetary policy vs Bitcoin vs Cardano Voltaire
 - 99% reduction in energy use vs Cardano always PoS and *verifiably carbon neutral*
 
-CNC Vision
+### CNC Vision
 - All Cardano stake pools operating on 100% renewable energy
+- Catalyst pool.pm green checkmark?
 - CNC vs CNBG?
 
 ### Head-to-head
